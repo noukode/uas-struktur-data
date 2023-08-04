@@ -2,6 +2,10 @@
 
 using namespace std;
 
+// NIM         : 220401010142
+// Nama        : Hilmi Maulana Mukhlis
+// Kelas       : IT204
+// Mata Kuliah : Struktur Data & Algoritma
 
 int main() {
     int arr[] = {19, 40, 10, 90, 2, 50, 60, 50, 1};

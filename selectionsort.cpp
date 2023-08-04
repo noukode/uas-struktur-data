@@ -3,6 +3,11 @@
 
 using namespace std;
 
+// NIM         : 220401010142
+// Nama        : Hilmi Maulana Mukhlis
+// Kelas       : IT204
+// Mata Kuliah : Struktur Data & Algoritma
+
 struct Mahasiswa {
     string nama;
     string alamat;
